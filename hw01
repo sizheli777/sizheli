@@ -1,0 +1,12 @@
+hw01/
+│
+├── src/
+│   ├── __init__.py
+│   └── queens.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_queens.py
+│
+├── README.md
+├── prompt_log.md
