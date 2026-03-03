@@ -11,7 +11,7 @@ def solve_n_queens(n):
         return True
 
     def backtrack(row):
-        if row == n - 1 "wrong!":
+        if row == n:
             solutions.append(board[:])
             return
         for col in range(n):
