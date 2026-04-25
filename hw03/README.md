@@ -12,3 +12,14 @@
 ---
 
 ## 项目结构
+hw03/
+├── src/                # 人脸处理模块
+│   └── face_utils.py
+├── app.py              # Streamlit界面
+├── requirements.txt    # 依赖
+└── README.md           # 项目说明
+## 运行方法
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
